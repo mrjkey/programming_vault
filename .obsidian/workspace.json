@@ -36,78 +36,6 @@
             }
           },
           {
-            "id": "64607c1c981dcc6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Level 3/CodeWars Kata - Decryption.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ba2d6f902388697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Level 8 - Easiest/CodeWars Kata - Even or Odd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4648a700e5ee909d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Level 7/CodeWars Kata - Counting Vowels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "147800f3a1b34bbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Level 7/CodeWars Kata - Counting Vowels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4875f23143774be5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Level 7/CodeWars Kata - Square Every Digit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d3b9ff3dbd7a20c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Level 7/CodeWars Kata - Square Every Digit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8c0947c780350548",
             "type": "leaf",
             "state": {
@@ -120,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,14 +178,16 @@
   },
   "active": "8c0947c780350548",
   "lastOpenFiles": [
-    "C++/Level 7/CodeWars Kata - High and Low.md",
+    "C++/Level 7/CodeWars Kata - Middle Character.md",
     "C++/Level 7/Untitled.md",
     "ChatGPT Prompt - Generate Kata Note.md",
     "ChatGPT Prompt - Kata Instructions.md",
     "C++/Level 7/CodeWars Kata - Square Every Digit.md",
-    "README.md",
-    "C++/Level 7/CodeWars Kata - Disemvowel Trolls.md",
+    "C++/Level 7/CodeWars Kata - High and Low.md",
     "C++/Level 7/CodeWars Kata - Counting Vowels.md",
+    "C++/Level 7/CodeWars Kata - Descending Order Sort.md",
+    "C++/Level 7/CodeWars Kata - Disemvowel Trolls.md",
+    "README.md",
     "C++/Level 8 - Easiest/CodeWars Kata - Multiplication Placeholder.md",
     "C++/Level 8 - Easiest/CodeWars Kata - Even or Odd.md",
     "C++/Level 3/CodeWars Kata - Decryption.md",
