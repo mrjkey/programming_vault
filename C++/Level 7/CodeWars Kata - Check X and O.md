@@ -1,12 +1,7 @@
-https://www.codewars.com/kata/55908aad6620c066bc00002a/train/cpp
-
-
-Title: 'CodeWars Kata - Check X and O'
-
-
+# CodeWars Kata - Check X and O
 
 ## Link
-[Placeholder for the kata link](#)
+[kata link](https://www.codewars.com/kata/55908aad6620c066bc00002a/train/cpp)
 
 ## Problem Statement
 Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.
