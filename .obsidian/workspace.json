@@ -46,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1cd65d0ac75cacd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Level 6/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,13 +188,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a07a82c77e2fffbf",
+  "active": "1cd65d0ac75cacd0",
   "lastOpenFiles": [
-    "C++/Level 7/CodeWars Kata - Check X and O.md",
-    "C++/Level 6/Untitled.md",
-    "C++/Level 7/CodeWars Kata - Isogram Checker.md",
     "ChatGPT Prompt - Generate Kata Note.md",
     "ChatGPT Prompt - Kata Instructions.md",
+    "C++/Level 6/Untitled.md",
+    "C++/Level 7/CodeWars Kata - Check X and O.md",
+    "C++/Level 7/CodeWars Kata - Isogram Checker.md",
     "C++/Level 7/CodeWars Kata - A Square of Squares.md",
     "C++/Level 7/CodeWars Kata - accum.md",
     "C++/Level 7/CodeWars Kata - Middle Character.md",
