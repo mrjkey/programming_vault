@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c03afaaac9c51c7f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChatGPT Prompt - Generate Kata Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "776c6cfea1112488",
             "type": "leaf",
             "pinned": true,
@@ -31,6 +17,20 @@
                 "file": "ChatGPT Prompt - Kata Instructions.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c03afaaac9c51c7f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT Prompt - Generate Kata Note.md",
+                "mode": "source",
+                "source": true
               },
               "pinned": true
             }
@@ -89,14 +89,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Level 7/Untitled.md",
+                "file": "C++/Level 7/CodeWars Kata - Square Every Digit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d3b9ff3dbd7a20c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Level 7/CodeWars Kata - Square Every Digit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Level 7/Untitled.md",
+                "file": "C++/Level 7/CodeWars Kata - Square Every Digit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Level 7/Untitled.md",
+                "file": "C++/Level 7/CodeWars Kata - Square Every Digit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Level 7/Untitled.md"
+                "file": "C++/Level 7/CodeWars Kata - Square Every Digit.md"
               }
             }
           }
@@ -224,12 +236,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4875f23143774be5",
+  "active": "7d3b9ff3dbd7a20c",
   "lastOpenFiles": [
-    "C++/Level 7/CodeWars Kata - Disemvowel Trolls.md",
-    "C++/Level 7/Untitled.md",
     "ChatGPT Prompt - Generate Kata Note.md",
     "ChatGPT Prompt - Kata Instructions.md",
+    "C++/Level 7/CodeWars Kata - Square Every Digit.md",
+    "README.md",
+    "C++/Level 7/CodeWars Kata - Disemvowel Trolls.md",
     "C++/Level 7/CodeWars Kata - Counting Vowels.md",
     "C++/Level 8 - Easiest/CodeWars Kata - Multiplication Placeholder.md",
     "C++/Level 8 - Easiest/CodeWars Kata - Even or Odd.md",
