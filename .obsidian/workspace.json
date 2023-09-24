@@ -36,19 +36,7 @@
             }
           },
           {
-            "id": "a07a82c77e2fffbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Level 6/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cd65d0ac75cacd0",
+            "id": "3f2686afd427642a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,11 +176,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cd65d0ac75cacd0",
+  "active": "3f2686afd427642a",
   "lastOpenFiles": [
     "ChatGPT Prompt - Generate Kata Note.md",
     "ChatGPT Prompt - Kata Instructions.md",
     "C++/Level 6/Untitled.md",
+    "C++/Level 6/CodeWars Kata - Multiples of 3 and 5.md",
+    "C++/Level 6/CodeWars Kata - Odd Integers.md",
+    "C++/Level 6/CodeWars Kata - Reverse Words.md",
     "C++/Level 7/CodeWars Kata - Check X and O.md",
     "C++/Level 7/CodeWars Kata - Isogram Checker.md",
     "C++/Level 7/CodeWars Kata - A Square of Squares.md",
