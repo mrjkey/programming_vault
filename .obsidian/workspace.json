@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Level 7/CodeWars Kata - Disemvowel Trolls.md",
+                "file": "C++/Level 7/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Level 7/CodeWars Kata - Disemvowel Trolls.md",
+                "file": "C++/Level 7/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Level 7/CodeWars Kata - Disemvowel Trolls.md",
+                "file": "C++/Level 7/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Level 7/CodeWars Kata - Disemvowel Trolls.md"
+                "file": "C++/Level 7/Untitled.md"
               }
             }
           }
@@ -226,8 +226,9 @@
   },
   "active": "4875f23143774be5",
   "lastOpenFiles": [
-    "ChatGPT Prompt - Generate Kata Note.md",
     "C++/Level 7/CodeWars Kata - Disemvowel Trolls.md",
+    "C++/Level 7/Untitled.md",
+    "ChatGPT Prompt - Generate Kata Note.md",
     "ChatGPT Prompt - Kata Instructions.md",
     "C++/Level 7/CodeWars Kata - Counting Vowels.md",
     "C++/Level 8 - Easiest/CodeWars Kata - Multiplication Placeholder.md",
