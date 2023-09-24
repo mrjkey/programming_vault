@@ -58,8 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfd164b61945b7ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChatGPT Prompt - Kata Instructions.md",
+                "file": "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatGPT Prompt - Kata Instructions.md",
+                "file": "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatGPT Prompt - Kata Instructions.md"
+                "file": "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md"
               }
             }
           }
@@ -187,11 +200,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "776c6cfea1112488",
+  "active": "bfd164b61945b7ab",
   "lastOpenFiles": [
-    "C++/Level 6/CodeWars Kata - Counting Set Bits.md",
     "ChatGPT Prompt - Generate Kata Note.md",
+    "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md",
     "ChatGPT Prompt - Kata Instructions.md",
+    "C++/Level 6/CodeWars Kata - Counting Set Bits.md",
     "C++/Level 6/CodeWars Kata - Create Phone Number.md",
     "C++/Level 6/CodeWars Kata - Facebook Likes System.md",
     "C++/Level 6/CodeWars Kata - Digital Root.md",
@@ -233,7 +247,6 @@
     "Images/Nadia/Pasted image 20230924122151.png",
     "Game Notes",
     "Images",
-    "C++/CodeWars Kata - Permutations2.md",
     "C++"
   ]
 }
