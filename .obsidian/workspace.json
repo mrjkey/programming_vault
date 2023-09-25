@@ -65,13 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Level 5/Untitled.md",
+                "file": "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChatGPT Prompt - Kata Instructions.md",
+                "file": "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatGPT Prompt - Kata Instructions.md",
+                "file": "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatGPT Prompt - Kata Instructions.md"
+                "file": "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md"
               }
             }
           }
@@ -199,13 +200,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "776c6cfea1112488",
+  "active": "bfd164b61945b7ab",
   "lastOpenFiles": [
     "C++/Level 5/Untitled.md",
-    "README.md",
-    "C++/Level 5",
-    "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md",
     "ChatGPT Prompt - Generate Kata Note.md",
+    "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md",
     "ChatGPT Prompt - Kata Instructions.md",
     "C++/Level 6/CodeWars Kata - Counting Set Bits.md",
     "C++/Level 6/CodeWars Kata - Create Phone Number.md",
@@ -224,6 +223,7 @@
     "C++/Level 7/CodeWars Kata - Counting Vowels.md",
     "C++/Level 7/CodeWars Kata - Descending Order Sort.md",
     "C++/Level 7/CodeWars Kata - Disemvowel Trolls.md",
+    "README.md",
     "C++/Level 8 - Easiest/CodeWars Kata - Multiplication Placeholder.md",
     "C++/Level 8 - Easiest/CodeWars Kata - Even or Odd.md",
     "C++/Level 3/CodeWars Kata - Decryption.md",
@@ -246,6 +246,7 @@
     "Images/Nadia/Pasted image 20230924124705.png",
     "Images/Nadia/Pasted image 20230924122151.png",
     "Game Notes",
-    "Images"
+    "Images",
+    "C++"
   ]
 }
