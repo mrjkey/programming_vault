@@ -51,3 +51,33 @@ std::string get_middle(const std::string& input)
 - `#algorithm`
 
 ---
+
+## My bad attempt
+
+```c++
+std::string get_middle(std::string input) 
+{
+  int length = input.length();
+  
+  std::string result;
+  
+  bool is_even = length % 2 == 0 ? true : false;
+  
+  // 4/2 = 2, 1 and 2
+  // 7/2 = 3.5 = 3
+  
+  for(int i =0; i< length; i++){
+    if(is_even){
+      if(i == (length/2) or i == (length/2)-1){
+        result += input[i];
+      }
+    }else{
+      if(i == (length/2)){
+        result += input[i];
+      }
+    }
+  }
+
+  return result;
+}
+```
