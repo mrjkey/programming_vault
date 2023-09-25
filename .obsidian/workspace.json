@@ -36,31 +36,19 @@
             }
           },
           {
-            "id": "f9c1dd2a417484e5",
+            "id": "1d22af3a74a78d54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Level 5/CodeWars Kata - Pig Latin Transformation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab2c64c11730773e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Level 5/CodeWars Kata - RGB to Hexadecimal Conversion.md",
+                "file": "C++/Level 5/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Level 5/CodeWars Kata - RGB to Hexadecimal Conversion.md",
+                "file": "C++/Level 5/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Level 5/CodeWars Kata - RGB to Hexadecimal Conversion.md",
+                "file": "C++/Level 5/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Level 5/CodeWars Kata - RGB to Hexadecimal Conversion.md"
+                "file": "C++/Level 5/Untitled.md"
               }
             }
           }
@@ -188,12 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab2c64c11730773e",
+  "active": "1d22af3a74a78d54",
   "lastOpenFiles": [
     "ChatGPT Prompt - Generate Kata Note.md",
-    "ChatGPT Prompt - Kata Instructions.md",
-    "C++/Level 5/CodeWars Kata - RGB to Hexadecimal Conversion.md",
+    "C++/Level 5/Untitled.md",
     "C++/Level 5/CodeWars Kata - Pig Latin Transformation.md",
+    "C++/Level 5/CodeWars Kata - RGB to Hexadecimal Conversion.md",
+    "ChatGPT Prompt - Kata Instructions.md",
     "C++/Level 6/CodeWars Kata - Create Phone Number.md",
     "C++/Level 5/CodeWars Kata - Move Zeros to End.md",
     "README.md",
@@ -216,7 +205,6 @@
     "C++/Level 7/CodeWars Kata - Descending Order Sort.md",
     "C++/Level 7/CodeWars Kata - Disemvowel Trolls.md",
     "C++/Level 8 - Easiest/CodeWars Kata - Multiplication Placeholder.md",
-    "C++/Level 8 - Easiest/CodeWars Kata - Even or Odd.md",
     "C++/Level 7",
     "C++/Level 6",
     "C++/Level 5",
