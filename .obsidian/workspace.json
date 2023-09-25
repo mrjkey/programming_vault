@@ -41,13 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Level 5/Untitled.md",
+                "file": "C++/Level 5/CodeWars Kata - Pig Latin Transformation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab2c64c11730773e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Level 5/CodeWars Kata - Pig Latin Transformation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChatGPT Prompt - Kata Instructions.md",
+                "file": "C++/Level 5/CodeWars Kata - Pig Latin Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatGPT Prompt - Kata Instructions.md",
+                "file": "C++/Level 5/CodeWars Kata - Pig Latin Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatGPT Prompt - Kata Instructions.md"
+                "file": "C++/Level 5/CodeWars Kata - Pig Latin Transformation.md"
               }
             }
           }
@@ -175,12 +188,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "776c6cfea1112488",
+  "active": "ab2c64c11730773e",
   "lastOpenFiles": [
-    "C++/Level 5/Untitled.md",
     "ChatGPT Prompt - Generate Kata Note.md",
-    "C++/Level 6/CodeWars Kata - Create Phone Number.md",
     "ChatGPT Prompt - Kata Instructions.md",
+    "C++/Level 5/CodeWars Kata - Pig Latin Transformation.md",
+    "C++/Level 6/CodeWars Kata - Create Phone Number.md",
     "C++/Level 5/CodeWars Kata - Move Zeros to End.md",
     "README.md",
     "C++/Level 5",
