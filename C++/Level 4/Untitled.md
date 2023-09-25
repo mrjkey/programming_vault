@@ -1,2 +1,1 @@
-https://www.codewars.com/kata/5324945e2ece5e1f32000370/train/cpp
-
+https://www.codewars.com/kata/5629db57620258aa9d000014/train/cpp

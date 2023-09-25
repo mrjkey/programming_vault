@@ -36,19 +36,7 @@
             }
           },
           {
-            "id": "23e9bab84b63ca9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Level 4/CodeWars Kata - Sum of Intervals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e905740c2211066",
+            "id": "e65cf40ac3b17a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,12 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e905740c2211066",
+  "active": "e65cf40ac3b17a6a",
   "lastOpenFiles": [
+    "ChatGPT Prompt - Generate Kata Note.md",
     "ChatGPT Prompt - Kata Instructions.md",
     "C++/Level 4/Untitled.md",
+    "C++/Level 4/CodeWars Kata - Sum Strings as Numbers.md",
     "C++/Level 4/CodeWars Kata - Sum of Intervals.md",
-    "ChatGPT Prompt - Generate Kata Note.md",
     "C++/Level 4/CodeWars Kata - Observed PIN.md",
     "C++/Level 4/CodeWars Kata - Shufflings.md",
     "C++/Level 4/CodeWars Kata - Next Bigger Number with the Same Digits.md",
@@ -216,7 +205,6 @@
     "C++/Level 6/CodeWars Kata - Facebook Likes System.md",
     "C++/Level 6/CodeWars Kata - Digital Root.md",
     "C++/Level 6/CodeWars Kata - Multiples of 3 and 5.md",
-    "C++/Level 6/CodeWars Kata - Odd Integers.md",
     "C++/Level 7",
     "C++/Level 6",
     "C++/Level 5",
