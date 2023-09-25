@@ -65,14 +65,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md",
+                "file": "C++/Level 5/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d21461931b1ec67d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Level 5/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md",
+                "file": "ChatGPT Prompt - Generate Kata Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md",
+                "file": "ChatGPT Prompt - Kata Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md"
+                "file": "ChatGPT Prompt - Kata Instructions.md"
               }
             }
           }
@@ -200,11 +212,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfd164b61945b7ab",
+  "active": "776c6cfea1112488",
   "lastOpenFiles": [
     "C++/Level 5/Untitled.md",
-    "ChatGPT Prompt - Generate Kata Note.md",
+    "README.md",
+    "C++/Level 5",
     "C++/Level 6/CodeWars Kata - Find The Parity Outlier.md",
+    "ChatGPT Prompt - Generate Kata Note.md",
     "ChatGPT Prompt - Kata Instructions.md",
     "C++/Level 6/CodeWars Kata - Counting Set Bits.md",
     "C++/Level 6/CodeWars Kata - Create Phone Number.md",
@@ -227,7 +241,6 @@
     "C++/Level 8 - Easiest/CodeWars Kata - Multiplication Placeholder.md",
     "C++/Level 8 - Easiest/CodeWars Kata - Even or Odd.md",
     "C++/Level 3/CodeWars Kata - Decryption.md",
-    "C++/Level 4/CodeWars Kata - Shufflings.md",
     "C++/Level 7",
     "C++/Level 6",
     "C++/Level 5",
