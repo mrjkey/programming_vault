@@ -32,7 +32,6 @@ In this kata, you are given a string of space-separated numbers, and have to ret
 
 std::string highAndLow(const std::string& numbers){
     std::istringstream ss(numbers);  
-    int num;
     std::vector<int> numVector(std::istream_iterator<int>(ss), {});
     auto [minIt, maxIt] = std::minmax_element(numVector.begin(), numVector.end());
     return std::to_string(*maxIt) + " " + std::to_string(*minIt);
@@ -66,3 +65,36 @@ Structured bindings (`auto [minIt, maxIt]`) from C++17 provide a convenient way 
 - `#parsing`
 
 ---
+
+## My bad code
+
+```c++
+#include <string>
+
+std::string highAndLow(const std::string& numbers){
+  int count = 0;
+  int min, max;
+  
+  std::stringstream ss(numbers);
+  int num;
+  while(ss >> num){
+    if(count == 0){
+      min = num;
+      max = num;
+      count++;
+    }else{
+      if(num < min){
+        min = num;
+      }
+      if(num > max){
+        max = num;
+      }
+    }
+  }
+  
+//   std::stringstream result;
+//   result << std::to_string(max) << " " << std::to_string;
+  return std::to_string(max) + " " + std::to_string(min);
+  //your code here
+}
+```
