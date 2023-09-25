@@ -41,3 +41,13 @@ The problem is solved using the `std::stable_partition` algorithm from the C++ S
 - `#partition`
 
 ---
+
+## Alternate solutions:
+
+```c++
+auto move_zeroes(std::vector<int> v) {
+  stable_partition(begin(v), end(v), std::negate());
+  return v;
+}
+```
+
