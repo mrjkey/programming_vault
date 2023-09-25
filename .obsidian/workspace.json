@@ -41,14 +41,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Level 4/CodeWars Kata - Next Bigger Number with the Same Digits.md",
+                "file": "C++/Level 4/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Level 4/CodeWars Kata - Next Bigger Number with the Same Digits.md",
+                "file": "ChatGPT Prompt - Kata Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Level 4/CodeWars Kata - Next Bigger Number with the Same Digits.md",
+                "file": "ChatGPT Prompt - Kata Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Level 4/CodeWars Kata - Next Bigger Number with the Same Digits.md"
+                "file": "ChatGPT Prompt - Kata Instructions.md"
               }
             }
           }
@@ -176,14 +175,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fc17e41a82bc843",
+  "active": "776c6cfea1112488",
   "lastOpenFiles": [
-    "ChatGPT Prompt - Generate Kata Note.md",
+    "C++/Level 4/Untitled.md",
     "C++/Level 4/CodeWars Kata - Next Bigger Number with the Same Digits.md",
+    "C++/Level 4/CodeWars Kata - Human-friendly Duration Format.md",
+    "C++/Level 4/CodeWars Kata - Shufflings.md",
+    "ChatGPT Prompt - Generate Kata Note.md",
     "C++/Level 4/CodeWars Kata - Range Extraction.md",
     "C++/Level 4/CodeWars Kata - Snail Sort.md",
     "ChatGPT Prompt - Kata Instructions.md",
-    "C++/Level 4/CodeWars Kata - Human-friendly Duration Format.md",
     "C++/Level 5/CodeWars Kata - Maximum Sum Subarra.md",
     "C++/Level 5/CodeWars Kata - Weight Sort.md",
     "C++/Level 5/CodeWars Kata - Product of Fibonacci Numbers.md",
@@ -203,8 +204,6 @@
     "C++/Level 6/CodeWars Kata - Odd Integers.md",
     "C++/Level 6/CodeWars Kata - Reverse Words.md",
     "C++/Level 7/CodeWars Kata - Check X and O.md",
-    "C++/Level 7/CodeWars Kata - Isogram Checker.md",
-    "C++/Level 7/CodeWars Kata - A Square of Squares.md",
     "C++/Level 7",
     "C++/Level 6",
     "C++/Level 5",
