@@ -34,6 +34,30 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7e9021e727c1118c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Level 4/CodeWars Kata - Snail Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42d639f2199fd951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Level 4/CodeWars Kata - Human-friendly Duration Format.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -165,10 +189,12 @@
   },
   "active": "776c6cfea1112488",
   "lastOpenFiles": [
-    "C++/Level 5/CodeWars Kata - Maximum Sum Subarra.md",
+    "C++/Level 4/CodeWars Kata - Human-friendly Duration Format.md",
     "ChatGPT Prompt - Generate Kata Note.md",
-    "C++/Level 5/CodeWars Kata - Weight Sort.md",
     "ChatGPT Prompt - Kata Instructions.md",
+    "C++/Level 4/CodeWars Kata - Snail Sort.md",
+    "C++/Level 5/CodeWars Kata - Maximum Sum Subarra.md",
+    "C++/Level 5/CodeWars Kata - Weight Sort.md",
     "C++/Level 5/CodeWars Kata - Product of Fibonacci Numbers.md",
     "C++/Level 5/CodeWars Kata - ROT13.md",
     "C++/Level 5/CodeWars Kata - Mountainous Direction Reduction.md",
@@ -190,8 +216,6 @@
     "C++/Level 7/CodeWars Kata - A Square of Squares.md",
     "C++/Level 7/CodeWars Kata - accum.md",
     "C++/Level 7/CodeWars Kata - Middle Character.md",
-    "C++/Level 7/CodeWars Kata - Square Every Digit.md",
-    "C++/Level 7/CodeWars Kata - High and Low.md",
     "C++/Level 7",
     "C++/Level 6",
     "C++/Level 5",
