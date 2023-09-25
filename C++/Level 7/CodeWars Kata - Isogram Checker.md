@@ -49,3 +49,19 @@ bool is_isogram(std::string str) {
 #std/transform #std/tolower #std/set
 
 ---
+
+## my bad ? code ?
+
+```c++
+#include <set>
+
+bool is_isogram(std::string str) {
+  std::set<char> letters;
+  
+  for(char c : str){
+    letters.insert(std::tolower(c));
+  }
+  
+  return letters.size() == str.size() ? true : false;
+}
+```
