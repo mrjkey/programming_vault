@@ -45,6 +45,19 @@ uint64_t descendingOrder(uint64_t a) {
 ## Tags
 
 #std/string #std/algorithm #std/sort #integer #string #sorting
-```
 
-This note is designed to be compatible with markdown and can be directly pasted into Obsidian without any further modifications.
+
+## Alternate
+
+```c++
+#include <cinttypes>
+#include <string>
+#include <algorithm>
+
+uint64_t descendingOrder(uint64_t a)
+{
+  std::string s = std::to_string(a);
+  std::sort(s.rbegin(), s.rend());
+  return std::stoull(s);
+}
+```

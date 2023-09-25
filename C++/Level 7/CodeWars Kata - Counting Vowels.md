@@ -43,3 +43,20 @@ int getCount(const string& inputStr){
 - `#cpp`
 
 ---
+
+## Alternate
+
+```c++
+#include <string>
+
+using namespace std;
+
+bool is_vowel(char c) {
+  return (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u');
+}
+
+int getCount(const string& inputStr) {
+  return count_if(inputStr.begin(), inputStr.end(), is_vowel);
+}
+```
+
