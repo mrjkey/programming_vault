@@ -65,3 +65,12 @@ bool is_square(int n) {
   return square * square == n;
 }
 ```
+
+```c++
+#include <cmath>
+
+bool is_square(int n)
+{
+  return fmod(sqrt(n), 1) == 0;
+}
+```
