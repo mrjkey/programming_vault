@@ -61,3 +61,16 @@ uint64_t descendingOrder(uint64_t a)
   return std::stoull(s);
 }
 ```
+
+```c++
+#include <cinttypes>
+
+uint64_t descendingOrder(uint64_t a)
+{
+  
+  std::string nums = std::to_string(a);
+  std::sort(nums.begin(), nums.end(), std::greater());
+  
+  return std::stoull(nums);
+}
+```
