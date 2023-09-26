@@ -9,17 +9,16 @@ Return the number (count) of vowels in the given string. We will consider a, e, 
 
 ```cpp
 #include <string>
-#include <algorithm>
 #include <unordered_set>
 
 using namespace std;
 
 int getCount(const string& inputStr){
-    const unordered_set<char> vowels = {'a', 'e', 'i', 'o', 'u'};
-    
-    return count_if(begin(inputStr), end(inputStr), [&vowels](char c) {
-        return vowels.find(c) != end(vowels);
-    });
+  unordered_set<char> vowels = {'a', 'e', 'i', 'o', 'u'};
+  
+  return count_if(inputStr.begin(), inputStr.end(), [vowels](char c){
+    return vowels.find(c) != vowels.end();
+  });
 }
 ```
 
