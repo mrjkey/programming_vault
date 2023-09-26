@@ -46,6 +46,5 @@ The solution leverages the `std::count_if` function from the STL to count occurr
 
 ## Tags
 #std/algorithm #std/string #lambda-expression #case-insensitivity
-```
 
-You can copy and paste the above content directly into an Obsidian note. The code section is wrapped appropriately in "```" to indicate a code block.
+
