@@ -31,9 +31,13 @@ wasn't sure what you meant by "Must-see performances", but I hope I got the righ
 
  
 "We are fully justified by our being alone"
+maybe rephrase to something like "Our existence is justification enough."
+
 "Meaning and purpose come into this world with human consciousness, and all connected chains running back into it"
+
 "Every living, conscious being is the highest and ultimate purpose in itself"
-"We have to give life its own meaning, and stop searching for it outside of us"
+
+"We have to give life its own meaning, and stop searching for it outside of ourselves"
 
 
 # Slide 7
