@@ -44,6 +44,22 @@ ppu - 1.01
 
 buy price = bp
 
+
+ppu/h - as big as possible
+
+|        | ppu  | units per hour      | ppu/h | ex $ |     |
+| ------ | ---- | ------------------- | ----- | ---- | --- |
+| Coffee | 0.80 | 1/25s   ->    144/h | 1.152 | $30  |     |
+|       |      |                     |       |      |     |
+|        |      |                     |       |      |     |
+|        |      |                     |       |      |     |
+|        |      |                     |       |      |     |
+
+
+
+
+coffee powder
+
 sell price = sp
 
 units sold per hour = uph
