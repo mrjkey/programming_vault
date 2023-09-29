@@ -160,6 +160,9 @@ fruit prod cost
 |            |      |         |                   |
 
 
-| stores | farms | revenue |
-| ------ | ----- | ------- |
-| 0       |       |         |
+| stores | farms | revenue        |
+| ------ | ----- | -------------- |
+| 0      | 5     | 5 x 0.2        |
+| 1      | 4     | (1 x 1) +  (4) |
+| 4      | 1     | (4x1) + excess |
+|        |       |                |
