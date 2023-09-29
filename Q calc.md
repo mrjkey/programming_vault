@@ -180,4 +180,5 @@ achievement hunting
 
 selling 1000 grapes at 2.3
 achievement point 2,183
-new value: 
+new value: 4,483
++2,300
