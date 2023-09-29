@@ -194,4 +194,5 @@ grain -> 1/2 x 0.57 per egg = 0.285
 $270 per 316 eggs produced
 $0.85 per egg
 
-10
+100 eggs
+172 - 49 - 85 = 
