@@ -166,3 +166,11 @@ fruit prod cost
 | 1      | 4     | (1 x 1) +  (4) |
 | 4      | 1     | (4x1) + excess |
 |        |       |                |
+
+
+achievement hunting
+
+|        | Prod  | ex rev | ex price | goal   | quantity | time to achieve | money  | rev selling | rev total |
+| ------ | ----- | ------ | -------- | ------ | -------- | --------------- | ------ | ----------- | --------- |
+| Grapes | 162/h | $0.20  | $2.30    | $8,000 | 3,480    | 21.5h           | $5,000 |             |           |
+|        |       |        |          |        |          |                 |        |             |           |
