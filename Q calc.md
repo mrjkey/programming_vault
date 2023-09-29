@@ -134,3 +134,13 @@ grape best price - 4.92
 
 
 sausage best price 11.8 - profit 0.60: 150 -> 48m
+
+
+
+fruit prod cost
+
+|         | Water / Cost | Seeds / Cost | Prod | Total Cost |
+| ------- | ------------ | ------------ | ---- | ---------- |
+| Apples  | 3 / $1,00    | 1  / $0.15   |      |            |
+| Oranges | 3 / $1,00    | 1  / $0.15   |      |            |
+| Grapes  | 4 / $1,33    | 1  / $0.15   |      |            |
