@@ -182,3 +182,16 @@ selling 1000 grapes at 2.3
 achievement point 2,183
 new value: 4,483
 +2,300
+
+
+
+316 /h
+workers -> $138/h\
+water -> 2/5 x 0.33 per egg = 0.132
+grain -> 1/2 x 0.57 per egg = 0.285
+
+0.417 x 316 = 132
+$270 per 316 eggs produced
+$0.85 per egg
+
+10
