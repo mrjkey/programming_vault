@@ -1,3 +1,8 @@
+---
+tags:
+  - games
+related: "[[README]]"
+---
 q0 1.051
 q1 1.050
 
