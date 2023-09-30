@@ -272,3 +272,7 @@ $4/m fashion -> $35,000
 250 at the end of each day
 
 0.34/m x 6.33 -> 2.15
+
+7844 x 0,25
+1,961 profit 13.5 hours
+250 x 6.3
