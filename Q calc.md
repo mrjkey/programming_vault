@@ -248,3 +248,9 @@ large store -> $3,7/m -> towards $4/m
 
 1 store with exchange prices - $1/m
 1 store with chain prices - $2/m
+
+
+eggs 290 x (1,23 - 1,03) -> $58/h
+orange juice 12.45 x (33.2 - 29) -> 52
+bricks - 87,49 x (3,57 - 2,55) -> $89,2/h
+cement - 62.57 units sold an hour$7.48 revenue minus, 6,2 -> 
