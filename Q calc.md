@@ -213,7 +213,24 @@ water 6 cents per unit cheaper to buy
 
 
 seeds need 0.1 water per seed
-1779/h
+
 
 seeds 0.15 vs 0.229 -> 8 cents per item
 labor per 1000 -> 123
+water per 1000 -> 100 -> 27$
+ $150 per 1000
+1779/h -> $142,32/h (in savings)
+half production -> $71/h
+$2.372/m
+
+2 tiles so far
+
+grain
+
+labor per 1000 -> $135
+water 500 -> $135
+seeds 1000-> $150
+
+$420 per 1000
+1618/h -> $679,59/h
+half production  -> $339,5/h (still just savings)
