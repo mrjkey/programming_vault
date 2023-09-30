@@ -266,3 +266,7 @@ $4/m fashion -> $35,000
 
 2880 - 250 -> 2630
 25,000/2630
+
+14th October I need 25,000 in the bank
+
+250 at the end of each day
