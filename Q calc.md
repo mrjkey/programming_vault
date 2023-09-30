@@ -254,3 +254,12 @@ eggs 290 x (1,23 - 1,03) -> $58/h
 orange juice 12.45 x (33.2 - 29) -> 52
 bricks - 87,49 x (3,57 - 2,55) -> $89,2/h
 cement - 62.57 units sold an hour$7.48 revenue minus, 6,2 -> 
+
+
+291m, 
+
+underwear - 0,4/m, $6,33 -> $2,57/m
+
+
+$3/m store -> $40,000
+$4/m fashion -> $35,000
