@@ -206,3 +206,14 @@ water 0.325
 | -------- | ----- | ------------ | --- |
 | shopping | 0.338 | 0.575        |  1.03   |
 | self     | 0.27  | 0.46 or less |  0.83   |
+
+
+water 6 cents per unit cheaper to buy
+1626/h -> $97,56/h (in savings)
+
+
+seeds need 0.1 water per seed
+1779/h
+
+seeds 0.15 vs 0.229 -> 8 cents per item
+labor per 1000 -> 123
