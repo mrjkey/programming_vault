@@ -242,7 +242,9 @@ savings -> $258/h
 cost per unit 0.8
 633/h -> cost $506/h
 $416/222m , will go up slightly
-small store ->$1,87/m
-large store -> $3,7/m
+small store ->$1,87/m -> towards $2/m
+large store -> $3,7/m -> towards $4/m
 
 
+1 store with exchange prices - $1/m
+1 store with chain prices - $2/m
