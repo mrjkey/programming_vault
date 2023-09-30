@@ -231,6 +231,6 @@ labor per 1000 -> $135
 water 500 -> $135
 seeds 1000-> $150
 
-$420 per 1000
+$420 per 1000 -> 0.42, market is 0.58. 16 cents
 1618/h -> $679,59/h
 half production  -> $339,5/h (still just savings)
