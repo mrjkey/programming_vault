@@ -233,4 +233,16 @@ seeds 1000-> $150
 
 $420 per 1000 -> 0.42, market is 0.58. 16 cents
 1618/h -> $679,59/h
-half production  -> $339,5/h (still just savings)
+half production  -> $339,5/h (production)
+savings -> $258/h
+
+
+3 tiles 
+
+cost per unit 0.8
+633/h -> cost $506/h
+$416/222m , will go up slightly
+small store ->$1,87/m
+large store -> $3,7/m
+
+
