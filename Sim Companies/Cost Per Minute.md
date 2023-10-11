@@ -9,4 +9,4 @@ levels
 
 91% -> 2u and some change, +$4000 (new start: 770, end 4807), bought power -> $190
 
-92% -> 2u, 2f: 
+92% -> 3u, 3f: 
