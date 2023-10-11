@@ -8,4 +8,4 @@ levels
 90% happened ~$17,900 1 u,
 
 2u and some change, +$4000 (new start: 770, end 4807), bought power -> $190
-1u, 1f: 
+2u, 2f: 
