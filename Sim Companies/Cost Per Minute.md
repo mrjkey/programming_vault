@@ -32,3 +32,13 @@ levels
 | 00         | 0      | 0       | xxxxx         | xxxx                   |
 | 01         | 0      | 0       | xxxxx         | xxxx                   |
 |            |        |         |               |                        |
+
+
+
+Cotton level 1 margin gain:  .20 - .30
+Fabric level 2 margin gain: 1.18 - 1.38
+Underwear level 3 margin gain: market price 5.5, current prod price 4.31, 
+reduce price: 3.13 - 2.93, gain: 2.37 - 2.62
+
+15,000 x 2.37 = 35,550
+3 buildings -> 35,550 / 3 = 11,850
