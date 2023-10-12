@@ -42,3 +42,15 @@ reduce price: 3.13 - 2.93, gain: 2.37 - 2.62
 
 15,000 x 2.37 = 35,550
 3 buildings -> 35,550 / 3 = 11,850
+
+
+
+GOLD
+
+80 power
+2 water
+= 1 gold
+
+|     | Power | Water | Gold Ore | Gold Bar | Necklace |
+| --- | ----- | ----- | -------- | -------- | -------- |
+|     |       |       |          |          |          |
