@@ -8,3 +8,11 @@ After Training 1
 
 Training 2 - management
 ![[Pasted image 20231108104029.png]]
+
+
+After Training 2 
+
+
+Training 3
+
+After Training 3
