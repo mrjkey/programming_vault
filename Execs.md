@@ -9,6 +9,9 @@ After Training 1
 Training 2 - management
 ![[Pasted image 20231108104029.png]]
 
+Training 2.5
+![[Pasted image 20231108184737.png]]
+
 
 After Training 2 
 
