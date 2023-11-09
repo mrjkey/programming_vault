@@ -14,6 +14,12 @@ Training 2.5
 
 
 After Training 2 
+![[Pasted image 20231109140139.png]]
+
+kai dillard is on management
+robert is back on general
+![[Pasted image 20231109140417.png]]
+
 
 
 Training 3
