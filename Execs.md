@@ -22,7 +22,7 @@ robert is back on general
 
 ![[Pasted image 20231109185735.png]]
 
-
+![[Pasted image 20231109231425.png]]
 
 Training 3
 
