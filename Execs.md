@@ -26,4 +26,8 @@ robert is back on general
 
 Training 3
 
+![[Pasted image 20231110175634.png]]
+
+
+
 After Training 3
