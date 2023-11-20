@@ -2,16 +2,18 @@
 1700 review
 
 
-![[Pasted image 20231014144328.png]]
 
-![[Pasted image 20231014144744.png]]
+![[Pasted image 20231120193928.png]]
+
+![[Pasted image 20231120193949.png]]
+
+![[Pasted image 20231120194132.png]]
+
+![[Pasted image 20231120194225.png]]
 
 
-![[Pasted image 20231014174611.png]]
-
-![[Pasted image 20231014175147.png]]
 
 
 
-![[Pasted image 20231014180314.png]]
+
 
